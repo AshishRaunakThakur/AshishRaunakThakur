@@ -1,13 +1,14 @@
-<a href="https://ashishraunak.vercel.app">
+<a href="https://ashishraunakthakur.github.io">
   <img src="assets/ashish-photo.png" width="22%" align="left" alt="Ashish Raunak Thakur">
 </a>
 
-<a href="https://ashishraunak.vercel.app"><img src="assets/ashish-header.svg" width="76%" alt="Ashish Raunak Thakur — BCA student at Marwadi University, Rajkot. Learning by building."></a>
+<a href="https://ashishraunakthakur.github.io"><img src="assets/ashish-header.svg" width="76%" alt="Ashish Raunak Thakur — BCA student at Marwadi University, Rajkot. Learning by building."></a>
 
 <p align="center"><strong>BCA Final-Year Student · Aspiring Software Developer · Web Development Enthusiast</strong></p>
 
 <p align="center">
-  <a href="https://ashishraunak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-701A3D?style=for-the-badge&labelColor=190B12&logo=vercel&logoColor=F8F0F3" alt="Ashish Raunak Thakur portfolio"></a>
+  <a href="https://ashishraunakthakur.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-Live_Portfolio-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Ashish Raunak Thakur GitHub Pages portfolio"></a>
+  <a href="https://ashishraunak.vercel.app"><img src="https://img.shields.io/badge/Vercel-Portfolio_Version-000000?style=for-the-badge&labelColor=190B12&logo=vercel&logoColor=F8F0F3" alt="Ashish Raunak Thakur Vercel portfolio"></a>
   <a href="https://ashishraunak.vercel.app/Ashish_Raunak_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View-701A3D?style=for-the-badge&labelColor=190B12&logo=adobeacrobatreader&logoColor=F8F0F3" alt="Resume"></a>
   <a href="mailto:ashishraunksmp@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Ashish"></a>
   <a href="https://www.linkedin.com/in/ashish-raunak-6b670734b/"><img src="https://img.shields.io/badge/LinkedIn-Ashish_Raunak-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile"></a>
@@ -29,7 +30,7 @@
 <img src="assets/project-gallery.svg" width="100%" alt="Eight projects by Ashish Raunak Thakur: Study Planner, ExamVision, Asmeera Lifeline, Academic Record System, MU Lost and Found, MU Event Hub, Ashmeera Empoweres, and Campus Cleaning, with project summaries and technologies.">
 
 <p align="center">
-  <a href="https://ashishraunak.vercel.app/#projects"><img src="https://img.shields.io/badge/Explore-Project_details-451126?style=for-the-badge&labelColor=190B12&logo=vercel&logoColor=F8F0F3" alt="Explore project details"></a>
+  <a href="https://ashishraunakthakur.github.io/#projects"><img src="https://img.shields.io/badge/Explore-Project_details-451126?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Explore project details"></a>
   <a href="https://github.com/AshishRaunakThakur?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Browse_repositories-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Browse GitHub repositories"></a>
 </p>
 
@@ -57,4 +58,4 @@
   <a href="https://github.com/AshishRaunakThakur"><img src="https://img.shields.io/badge/GitHub-AshishRaunakThakur-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
 </p>
 
-<a href="https://ashishraunak.vercel.app"><img src="assets/footer-signature-v2.svg" width="100%" alt="Ashish Raunak Thakur — Learning one project at a time."></a>
+<a href="https://ashishraunakthakur.github.io"><img src="assets/footer-signature-v2.svg" width="100%" alt="Ashish Raunak Thakur — Learning one project at a time."></a>
