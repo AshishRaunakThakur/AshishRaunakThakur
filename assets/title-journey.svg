@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="06 Learning journey — Building skills through practice.">
-  <defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#2A0E1B"/></linearGradient><linearGradient id="b" x1="0" x2="1"><stop stop-color="#701A3D"/><stop offset="1" stop-color="#C77B9B"/></linearGradient></defs>
-  <rect width="1200" height="96" rx="16" fill="url(#a)"/><rect width="7" height="96" rx="3" fill="url(#b)"/><text x="38" y="40" fill="#C77B9B" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">06  /  LEARNING JOURNEY</text><text x="38" y="72" fill="#F8F0F3" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Building skills through practice.</text><path d="M1090 48h68" stroke="#C77B9B" stroke-opacity=".55"/><circle cx="1170" cy="48" r="3" fill="#E5B5C7"/>
-</svg>
