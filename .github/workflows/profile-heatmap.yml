@@ -1,6 +1,8 @@
 name: Refresh profile heatmap
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Daily at 05:30 UTC, before the Pages deploy at 06:00
     - cron: "30 5 * * *"
