@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://ashishraunakthakur.github.io/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Pages-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio"></a>
   <a href="https://github.com/AshishRaunakThakur"><img src="https://img.shields.io/badge/GitHub-AshishRaunakThakur-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
+</p>
+<p align="center">
   <a href="mailto:ashishraunksmp@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ashish-raunak-6b670734b/"><img src="https://img.shields.io/badge/LinkedIn-Ashish_Raunak-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile"></a>
 </p>
