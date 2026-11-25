@@ -24,7 +24,7 @@
     <text class="ta-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#C77B9B"><tspan fill="#E5B5C7">01</tspan>   ABOUT</text>
   </g>
   <g class="ta-in ta-d2">
-    <text class="ta-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Hello, I&#x27;m <tspan font-style="italic" fill="url(#ta-sheen)">Ashish.</tspan></text>
+    <text class="ta-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Hello, I&#x27;m <tspan font-style="italic" fill="url(#ta-sheen)">Ashish Raunak</tspan></text>
   </g>
   <g class="ta-in ta-d3">
     <text class="ta-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">WHO I AM</text>
