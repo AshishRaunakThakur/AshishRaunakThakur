@@ -30,7 +30,7 @@
 <img src="assets/tech-constellation-v2.svg" width="100%" alt="Technologies explored: C, Python, PHP, Java, C sharp, HTML, CSS, JavaScript, Flask, Laravel, MySQL, SQLite3, DBMS, Flutter and Kotlin.">
 
 <img src="assets/title-commits.svg" width="100%" alt="GitHub contribution activity — animated contribution chart.">
-<img src="assets/contribution-snake.svg" width="100%" alt="Ashish Raunak Thakur's animated GitHub contribution chart, refreshed from public GitHub activity.">
+<img src="assets/contribution-snake.svg" width="100%" alt="Ashish Raunak Thakur's animated GitHub contribution chart, refreshed hourly from GitHub activity.">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AshishRaunakThakur&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="480" alt="GitHub statistics for AshishRaunakThakur"></p>
 
