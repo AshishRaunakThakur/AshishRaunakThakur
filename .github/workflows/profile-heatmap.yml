@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # Daily at 05:30 UTC, before the Pages deploy at 06:00
-    - cron: "30 5 * * *"
+    # Check each hour so today's square can appear as empty before a contribution.
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 permissions:
