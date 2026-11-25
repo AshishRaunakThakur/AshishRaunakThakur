@@ -214,12 +214,12 @@
 
     <!-- Name -->
     <text class="hero-serif hero-rise d3" x="68" y="230" font-size="92" font-weight="300" letter-spacing="-2.5" fill="#F8F0F3">Ashish</text>
-    <text class="hero-serif hero-rise d4" x="68" y="318" font-size="92" font-style="italic" font-weight="300" letter-spacing="-2.5" fill="url(#hero-name-grad)">Raunak Thakur<tspan fill="#C77B9B">.</tspan></text>
+    <text class="hero-serif hero-rise d4" x="68" y="318" font-size="92" font-style="italic" font-weight="300" letter-spacing="-2.5" fill="url(#hero-name-grad)">Raunak<tspan fill="#C77B9B">.</tspan></text>
 
     <!-- Light sweeping across the name -->
     <g class="hero-fade d6" pointer-events="none">
       <text class="hero-serif" x="68" y="230" font-size="92" font-weight="300" letter-spacing="-2.5" fill="url(#hero-sheen)">Ashish</text>
-      <text class="hero-serif" x="68" y="318" font-size="92" font-style="italic" font-weight="300" letter-spacing="-2.5" fill="url(#hero-sheen)">Raunak Thakur.</text>
+      <text class="hero-serif" x="68" y="318" font-size="92" font-style="italic" font-weight="300" letter-spacing="-2.5" fill="url(#hero-sheen)">Raunak</text>
     </g>
 
     <!-- Glowing underline -->
