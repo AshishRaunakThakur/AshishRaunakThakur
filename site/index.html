@@ -33,7 +33,6 @@
   <link rel="stylesheet" href="assets/css/components.css">
   <link rel="stylesheet" href="assets/css/sections.css">
 
-  <script>document.documentElement.classList.add("js");</script>
   <script type="module" src="assets/js/main.js"></script>
 
   <script type="application/ld+json">
@@ -76,7 +75,7 @@
   <div class="intro" aria-hidden="true">
     <svg class="intro__mark" viewBox="0 0 120 120">
       <circle cx="60" cy="60" r="54" />
-      <text x="60" y="74" text-anchor="middle">SD</text>
+    <text x="60" y="74" text-anchor="middle">AR</text>
     </svg>
   </div>
 
@@ -88,7 +87,7 @@
       <a class="nav__brand" href="#top" aria-label="Ashish Raunak — back to top">
         <svg class="nav__mono" viewBox="0 0 40 40" aria-hidden="true">
           <rect x="1" y="1" width="38" height="38" rx="11" />
-          <text x="20" y="26.5" text-anchor="middle">SD</text>
+          <text x="20" y="26.5" text-anchor="middle">AR</text>
         </svg>
         <span class="nav__name">Ashish Raunak</span>
       </a>
@@ -99,7 +98,7 @@
           <li><a href="#projects" data-navlink>Projects</a></li>
           <li><a href="#skills" data-navlink>Skills</a></li>
           <li><a href="#achievements" data-navlink>Milestones</a></li>
-          <li><a href="#experience" data-navlink>Education</a></li>
+          <li><a href="#certifications" data-navlink>Certifications</a></li>
           <li><a href="#contact" data-navlink>Contact</a></li>
         </ul>
       </nav>
@@ -119,7 +118,7 @@
           <li style="--i:1"><a href="#projects"><span class="mono">02</span>Projects</a></li>
           <li style="--i:2"><a href="#skills"><span class="mono">03</span>Skills</a></li>
           <li style="--i:3"><a href="#achievements"><span class="mono">04</span>Milestones</a></li>
-          <li style="--i:4"><a href="#experience"><span class="mono">05</span>Education</a></li>
+          <li style="--i:4"><a href="#certifications"><span class="mono">05</span>Certifications</a></li>
           <li style="--i:5"><a href="#contact"><span class="mono">06</span>Contact</a></li>
         </ol>
       </nav>
@@ -627,7 +626,7 @@
             <div class="honor__body">
               <p class="mono">Academic and personal work</p>
               <h3>Eight projects</h3>
-              <p>Projects explored across web, application, and database development.</p>
+              <p>Academic and personal projects across web, application, and database development.</p>
               <a class="link-u mono" href="#projects">See selected projects ↗</a>
             </div>
           </article>
@@ -661,57 +660,20 @@
       </div>
     </section>
 
-    <!-- ========================================================== EXPERIENCE -->
-    <section class="section path" id="experience" aria-labelledby="path-title">
+    <!-- ====================================================== CERTIFICATIONS -->
+    <section class="section path" id="certifications" aria-labelledby="certifications-title">
       <div class="container">
         <header class="section-head">
-          <p class="section-index" data-reveal><b>06</b> Education &amp; learning</p>
-          <h2 class="section-title" id="path-title" data-reveal style="--d:1">
-            The path <em>so far.</em>
+          <p class="section-index" data-reveal><b>06</b> Certifications</p>
+          <h2 class="section-title" id="certifications-title" data-reveal style="--d:1">
+            Certificates earned through <em>learning.</em>
           </h2>
         </header>
 
-        <div class="path__grid">
-          <div class="timeline" data-timeline>
-            <span class="timeline__rail" aria-hidden="true"><span class="timeline__fill"></span></span>
-
-            <h3 class="timeline__group mono" data-reveal>Learning through projects</h3>
-            <article class="entry" data-reveal>
-              <p class="entry__date mono">2024 – 2027</p>
-              <h4 class="entry__title">Academic and personal projects</h4>
-              <p class="entry__org">Building practical skills across development areas</p>
-              <ul class="entry__points">
-                <li>Explored web, application, and database development.</li>
-                <li>Built and explored eight academic and personal projects.</li>
-              </ul>
-            </article>
-
-            <h3 class="timeline__group mono" data-reveal>Education</h3>
-            <article class="entry" data-reveal>
-              <p class="entry__date mono"><time datetime="2024">2024</time> – <time datetime="2027">2027</time></p>
-              <h4 class="entry__title">Bachelor of Computer Applications (BCA)</h4>
-              <p class="entry__org">Marwadi University · Rajkot</p>
-              <p class="entry__badge mono">Expected graduation 2027</p>
-            </article>
-            <article class="entry" data-reveal>
-              <p class="entry__date mono">Current focus</p>
-              <h4 class="entry__title">Learning by building</h4>
-              <p class="entry__org">Web · applications · databases</p>
-            </article>
-          </div>
-
-          <div class="certs" aria-labelledby="certs-title">
-            <h3 class="certs__title" id="certs-title" data-reveal>Technology areas <span class="mono">15</span></h3>
-            <ul class="certs__list" role="list">
-              <li data-reveal><span class="mono">Languages</span><div>C · Python · PHP · Java · C#</div></li>
-              <li data-reveal><span class="mono">Web</span><div>HTML · CSS · JavaScript</div></li>
-              <li data-reveal><span class="mono">Frameworks</span><div>Flask · Laravel</div></li>
-              <li data-reveal><span class="mono">Databases</span><div>MySQL · SQLite3 · DBMS</div></li>
-              <li data-reveal><span class="mono">Applications</span><div>Flutter · Kotlin</div></li>
-              <li data-reveal><span class="mono">Interests</span><div>Frontend · Backend · Application development · Database management</div></li>
-            </ul>
-          </div>
-        </div>
+        <figure class="certifications-card" data-reveal style="margin:0">
+          <img src="assets/img/certifications.svg" width="1200" height="420" loading="lazy"
+               alt="Eight selected certificates: Google for Education AI Masterclass, Cisco cybersecurity and networking, Python Essentials 1, Oracle Java Fundamentals, DBMS, C# .NET, and Software Engineering Fundamentals.">
+        </figure>
       </div>
     </section>
 
@@ -753,7 +715,7 @@
   <footer class="footer">
     <div class="container footer__inner">
       <svg class="signature" viewBox="0 0 360 90" role="img" aria-label="Ashish Raunak">
-        <text x="4" y="66">Ashish</text>
+        <text x="4" y="70">AshishRaunak</text>
       </svg>
       <p class="mono">© <span data-year>2026</span> Ashish Raunak · Learning one project at a time.</p>
       <a class="footer__top" href="#top">

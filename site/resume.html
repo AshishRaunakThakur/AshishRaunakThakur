@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Resume — Ashish Raunak</title>
+  <title>Resume — Ashish Raunak Thakur</title>
   <meta name="description" content="Resume of Ashish Raunak, final-year BCA student at Marwadi University, Rajkot.">
   <meta name="theme-color" content="#10070C">
   <link rel="canonical" href="https://ashishraunakthakur.github.io/resume.html">
@@ -51,13 +51,25 @@
       @media (max-width: 680px) { .r-sec { grid-template-columns: 1fr; gap: 0.6rem; } }
 
       @media print {
-        @page { margin: 14mm 14mm; }
+        .r-sec--projects { break-before: page; page-break-before: always; break-inside: auto; }
+        .r-sec--projects > h2 { break-after: avoid; page-break-after: avoid; }
+        .r-sec--projects .r-item { break-inside: avoid; page-break-inside: avoid; }
+        .r-list--certs { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 0.7rem; padding-left: 0.9rem; }
+        .r-list--certs li { break-inside: avoid; line-height: 1.2; }
+        .r-sec--certifications { break-inside: avoid; }
+        @page { margin: 11mm 12mm; }
         :root { --text-muted: #333; --rose-200: #6E1738; --accent: #6E1738; --ivory: #111; --line: #ddd; --line-strong: #bbb; --faint: #666; }
-        body { background: #fff; color: #111; padding: 0; font-size: 10.5pt; }
+        body { background: #fff; color: #111; padding: 0; font-size: 9.5pt; }
         .bar, .r-note { display: none; }
         .sheet { border: 0; padding: 0; box-shadow: none; background: none; }
-        .r-sec { break-inside: avoid; padding-block: 0.6rem; }
-        .r-head h1 { font-size: 24pt; }
+        .r-head { gap: 0.3rem; padding-bottom: 0.45rem; }
+        .r-links { gap: 0.15rem 0.75rem; font-size: 8.5pt; }
+        .r-sec { grid-template-columns: 8.5rem 1fr; gap: 0.6rem; break-inside: avoid; padding-block: 0.32rem; }
+        .r-sec > h2 { font-size: 7.5pt; }
+        .r-item + .r-item { margin-top: 0.35rem; }
+        .r-item ul, .r-list { margin-top: 0.2rem; gap: 0.12rem; font-size: 8.5pt; }
+        .r-skills { gap: 0.12rem; font-size: 8.5pt; }
+        .r-head h1 { font-size: 22pt; }
         a { color: inherit !important; }
       }
     }
@@ -74,13 +86,14 @@
 
     <article class="sheet">
       <header class="r-head">
-        <h1>Ashish <em>Raunak</em></h1>
+        <h1>Ashish <em>Raunak Thakur</em></h1>
         <p class="role">Final-year BCA student · Aspiring Software Developer · Web Development Enthusiast</p>
         <ul class="r-links">
           <li><a class="link-u" href="mailto:ashishraunksmp@gmail.com">ashishraunksmp@gmail.com</a></li>
           <li><a class="link-u" href="https://github.com/AshishRaunakThakur">github.com/AshishRaunakThakur</a></li>
           <li><a class="link-u" href="https://www.linkedin.com/in/ashish-raunak-6b670734b/">LinkedIn · Ashish Raunak</a></li>
           <li><a class="link-u" href="https://ashishraunakthakur.github.io/">Portfolio</a></li>
+          <li><a class="link-u" href="https://ashishraunak.vercel.app">Vercel portfolio</a></li>
         </ul>
       </header>
 
@@ -118,7 +131,31 @@
         </div>
       </section>
 
+
+
       <section class="r-sec">
+        <h2>Achievements</h2>
+        <ul class="r-list">
+          <li><strong>Education:</strong> Final-year BCA at Marwadi University; expected graduation 2027.</li>
+          <li><strong>Projects:</strong> Eight academic and personal projects.</li>
+          <li><strong>Technologies:</strong> Fifteen explored through study and project work.</li>
+        </ul>
+      </section>
+
+      <section class="r-sec r-sec--certifications">
+        <h2>Certifications</h2>
+        <ul class="r-list r-list--certs">
+          <li><strong>Google for Education:</strong> Student AI Masterclass, 2-hour participation · Apr 2026.</li>
+          <li><strong>Cisco Networking Academy:</strong> Introduction to Cybersecurity · Nov 2026.</li>
+          <li><strong>Cisco Networking Academy:</strong> Networking Basics, with Marwadi Education Foundation · Mar 2026.</li>
+          <li><strong>Python Essentials 1:</strong> Cisco Networking Academy and National Skill Development Corporation · Feb 2026.</li>
+          <li><strong>Oracle Academy:</strong> Java Fundamentals · Oct 2025.</li>
+          <li><strong>Database Management System:</strong> Part 1 · Mar 2025.</li>
+          <li><strong>C# Programming using .NET:</strong> Course completion · Mar 2026.</li>
+          <li><strong>Software Engineering Fundamentals:</strong> Software Development and Testing · Aug 2026.</li>
+        </ul>
+      </section>
+      <section class="r-sec r-sec--projects">
         <h2>Projects</h2>
         <div>
           <div class="r-item">
@@ -170,27 +207,8 @@
         </div>
       </section>
 
-      <section class="r-sec">
-        <h2>Achievements</h2>
-        <ul class="r-list">
-          <li><strong>Education:</strong> Final-year BCA at Marwadi University; expected graduation 2027.</li>
-          <li><strong>Projects:</strong> Eight academic and personal projects.</li>
-          <li><strong>Technologies:</strong> Fifteen explored through study and project work.</li>
-        </ul>
-      </section>
-
-      <section class="r-sec">
-        <h2>Learning areas</h2>
-        <ul class="r-list">
-          <li><strong>Languages:</strong> C, Python, PHP, Java, C#</li>
-          <li><strong>Web:</strong> HTML, CSS, JavaScript</li>
-          <li><strong>Frameworks:</strong> Flask, Laravel</li>
-          <li><strong>Databases:</strong> MySQL, SQLite3, DBMS</li>
-          <li><strong>Application development:</strong> Flutter, Kotlin</li>
-        </ul>
-      </section>
     </article>
-    <p class="r-note">Contact details limited to email for privacy. Use “Save as PDF” to download a copy.</p>
+    <p class="r-note">Use “Save as PDF” to download a copy.</p>
   </main>
 </body>
 </html>
