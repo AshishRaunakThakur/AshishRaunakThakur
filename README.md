@@ -14,6 +14,7 @@
 
 <img src="assets/title-recognition.svg" width="100%" alt="Milestones — BCA, eight projects, fifteen technologies explored.">
 <p align="center"><strong>Final-year BCA · Marwadi University · 2024–2027 · 8 projects · 15 technologies explored</strong></p>
+<img src="assets/achievement-motif-v2.svg" width="100%" alt="Ashish Raunak's milestones: BCA at Marwadi University, projects, and technologies learned.">
 
 <img src="assets/title-work.svg" width="100%" alt="Selected work — academic and personal projects.">
 <img src="assets/project-policyguard-v2.svg" width="100%" alt="Study Planner — Python, HTML, CSS, JavaScript and SQLite3. Organizes subjects, study schedules and daily learning activities.">
