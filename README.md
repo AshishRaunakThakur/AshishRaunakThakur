@@ -15,7 +15,6 @@
 <img src="assets/about-intro.svg" width="100%" alt="Ashish Raunak Thakur: final-year BCA student at Marwadi University, Rajkot; expected to graduate in 2027; learning through projects across web, application, and database development.">
 
 <img src="assets/title-recognition.svg" width="100%" alt="Milestones — BCA, eight projects, fifteen technologies explored.">
-<p align="center"><strong>Final-year BCA · Marwadi University · 2024–2027 · 8 projects · 15 technologies explored</strong></p>
 <img src="assets/achievement-motif-v2.svg" width="100%" alt="Ashish Raunak's milestones: BCA at Marwadi University, projects, and technologies learned.">
 
 <img src="assets/title-work.svg" width="100%" alt="Selected work — academic and personal projects.">
